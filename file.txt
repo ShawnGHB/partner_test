@@ -1,1 +1,2 @@
 This is the main file for our collaboration.
+I think this file sucks
