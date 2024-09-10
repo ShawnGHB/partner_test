@@ -1,4 +1,6 @@
 This is the main file for our collaboration.
 I think this file sucks
 
-My fav color is Forest Green, it's soul invoking
+=======
+My favorite color is pale blue.
+>>>>>>> d5b4f2b2d120c2df04835b8f63ac0d476c8db833
